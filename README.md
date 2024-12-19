@@ -1,3 +1,3 @@
 # lang_chain
 
-learn langchain with me
+learn langgraph with me
